@@ -3,7 +3,7 @@ pipeline {
   environment {
     BRANCH = "${BRANCH_NAME}"
     USERNAME = 'sidbhasin13@outlook.com'
-    PASSWORD = 'BnJzBD9CT6TTPWEAiGur6BF7'
+    PASSWORD = 'dDsc1HaqpQCAUfl8mfWwFBAD'
     JIRAURL = 'sidbhasin.atlassian.net'
   }
   stages {
