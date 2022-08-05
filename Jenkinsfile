@@ -2,7 +2,7 @@ pipeline {
   agent any
   environment {
     BRANCH = "${BRANCH_NAME}"
-    USERNAME = 'sidbhasin13@outlook.com'
+    USERNAME = 'Sidbhasin13%40outlook.com'
     PASSWORD = '1W9slNMbzEi7fvub0BrOAEC6'
     JIRAURL = 'sidbhasin.atlassian.net'
   }
